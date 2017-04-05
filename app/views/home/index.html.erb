@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  </head>
+
+  <body>
+    <%= render "topbar" %>
+
+    <div class="container">
+
+  <div class="row">
+    <div class="col-md-4">
+      <h3><%= link_to image_tag('/image/cubic_logo.png',:size=>"64x64"), root_path %>CUE&A</h3>
+    </div>
+    <div class="col-md-8">
+      <br>
+      <div style="text-align:right;" id="period_theme"><h4>11期テーマ「非連続の成長を実現するためのギアチェンジ」</h4></div>
+    </div>
+  </div>
+  <div class="page-header">
+  </div>
+
+
+      <div class="row">
+        <div class="col-md-3">
+          <%= render "sidemenu"%>
+          <%= render "i_am_president" %>
+          <%= link_to "ご意見はこちらから", "https://goo.gl/forms/9kUanq1HKTRFRNVy1" %>
+          <p>ポータルに対する意見や要望があったらこちらからお願いします</p>
+
+        </div>
+       <div class="col-md-6">
+         <%= render "award11first"%>
+         <%= render "archievement"%>
+         <%= render "toolbox"%>
+         <iframe src="https://calendar.google.com/calendar/embed?height=200&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=cubic-hd.co.jp_hs65knol48r85sq790e191r62k%40group.calendar.google.com&amp;color=%238C500B&amp;ctz=Asia%2FTokyo&showPrint=0&mode=AGENDA&showTitle=0" style="border-width:0" width="550" height="200" frameborder="0" scrolling="no"></iframe>
+       </div>
+       <div class="col-md-3">
+         <%= render "credo" %>
+         <%= render "competency" %>
+         <%= render "goal2017" %>
+         <%= render "update_information"%>
+       </div>
+      </div>
+
+      <footer class="footer">
+        &copy; Company 2016
+      </footer>
+
+    </div>
+
+  </body>
+</html>

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2016-11-14
+  all: 1
+  adstrategy: 1
+  contents: 1
+
+two:
+  date: 2016-11-14
+  all: 1
+  adstrategy: 1
+  contents: 1

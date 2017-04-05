@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "manifest-zephyr-134406",
+  "private_key_id": "d2f8874414e01e05e7994ff1f2e817e55194cfb5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCcPiKPBv7NZNfH\n6O0xPXrjNbP/o9UPtzdif5o5ScFX7C/d7IEra2AVJon5fayHD7goJS2qULhVpEDh\n5694Si8dGtvUsQ94ADvwfIWLsWDooqzztn1W4sUZo2Q0ZqqFADgghntTkfnVzOxB\nAKzi4jiZNgXuWtrYHxJH6DM57DkMcI8NGBOXAm1k5SmEPauygwpYxJDPMPlJj3dG\njngK2p0nUVz9h7L06ErgDSWwYs0Q+0oog7DhwwTynN0ZCDOvAUuIu9FQ41DSYDdX\ncSgtuD50Xuh5Vkuf3e3mx8BOldhlW3ZqJbdb9NwuzcmIINCxjWf1xN0lR2glNCJO\nLGY5D13XAgMBAAECggEAJlNnjsYcgq2V8MfGRynZlxp5SOAbR3ud7l92qU7aSoL5\nSurU1J3GN+n4NmcJhyfn+JEGHp0mWnusHr4CYPNxkyYffpDgRoNoMJma+KVOLEKb\nQj0licaeqqdV0TTN50oiengCkIFiU3utCFTuE8mCMLL7yXgn7pPQnCrtRewYImCm\nr7FTWRnNyZ93FNE9tC/TZTwmWuv9+ONUknj3fxzMhs0/HGbFp2tbJeBtmXoec/Lu\nURSgjCdSCw3inyRQtKOQ1QGbG+zJPVjnHjt/oVRXjhz92NC+pdSM/U7PsfKdVcsp\n4GB0L+7u6MZ0+cDzXj5jRnSrxpmXZS90VDjy8vWYIQKBgQDpL3rAJobP/ycqp4ht\nHRchnKEkswAVCd89nUx2BQgu456JYOb8dNaaGoofls5SzJgEwEuQOf/ALRWgOv7i\n/VQzEVduaSC4BpiEfI/IT7CYliNJlg3fWnhpdo935jboDC0jvYfpNL8YrVuXcaNO\n2PutFY773lp//xcUIQIegtfrzQKBgQCrh37Ug/S4q0eibsLV5/L0T5rs24AuQE37\nBJNRc8JSLiP8iwRuKzVBqd+2Qba/eSvBK8mF262j5dLyhBzPHkaljA4TEWuBAL4C\nXPj6AH2Z+zTejnXZBnnrWASbtjxtIAlR6s/MfalUS2itRnzJ5o4C53kLlXFNUeRX\nLcgitHz0MwKBgFF2S8y66NfbDGTDWE6+HemZHVaDziCLbVjKDf8g7OXskOLvXmKN\nsrbtVJmKhpO4c9cdEojVKjqJxYdPdOH5nCOnCENDKLIBY+DM3zIcXNZBhRxc9oWz\nxmMZjy9U1pOkRVS6DrPywFuvnFLA2UtfVDT4VhY5bKZQiFB445OjJCl1AoGBAI8n\nvkpO9udIy7hdCG7N7o7IAVy8tPXk5TAiWXEZU4ySxaX3v/LSTNhIllTd809KKaJG\nkSIOfZTUMoIEkKardfqkMPrpBvfbTrlaLtE3p5vjc/RqoSBHr2kjRHVQWo4Ytq6P\ncm4QUknvxaUXtv4qVUtHNFbemnkVZ6T6qJWOXNrRAoGAYu5wbLXsFHBZNRpjqBdF\noekWStoIs38S/SvciCD1WaBn4QqtJmnViyBs+09iUVMxUAtMMpW3nfHvXSPut/BX\nowsFD4fo9BEeH2AiHsMuNUVVTbsps8jHeKqEZPnydmCyrJCGsC008YFGj+JfgIMu\n3HU6ghV+Cq/yVxI4p5avnhQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tassei@manifest-zephyr-134406.iam.gserviceaccount.com",
+  "client_id": "102433666707577928951",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tassei%40manifest-zephyr-134406.iam.gserviceaccount.com"
+}
